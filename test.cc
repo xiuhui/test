@@ -12,5 +12,6 @@ int main(){
     cout<<"xh2"<<endl;
     cout<<"master add"<<endl;
     cout<<"xh3 add"<<endl;
+	cout<<"win add"<<endl;
     return 0;
 }
