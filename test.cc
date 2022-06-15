@@ -19,5 +19,6 @@ int main(){
 	cout<<"win add3"<<endl;
     cout<<"mac add4"<<endl;
     cout<<"mac add5"<<endl;
+    cout<<"mac add6"<<endl;
     return 0;
 }
