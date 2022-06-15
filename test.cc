@@ -13,5 +13,6 @@ int main(){
     cout<<"master add"<<endl;
     cout<<"xh3 add"<<endl;
 	cout<<"win add"<<endl;
+    cout<<"mac add2"<<endl;
     return 0;
 }
