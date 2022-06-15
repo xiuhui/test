@@ -11,5 +11,6 @@ int main(){
     cout<<"xh add"<<endl;
     cout<<"xh2"<<endl;
     cout<<"master add"<<endl;
+    cout<<"xh3 add"<<endl;
     return 0;
 }
