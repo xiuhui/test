@@ -9,5 +9,6 @@ int main(){
     }    
     // cout<<"aa"<<endl;
     cout<<"xh add"<<endl;
+    cout<<"xh2"<<endl;
     return 0;
 }
