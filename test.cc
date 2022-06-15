@@ -10,5 +10,6 @@ int main(){
     // cout<<"aa"<<endl;
     cout<<"xh add"<<endl;
     cout<<"xh2"<<endl;
+    cout<<"master add"<<endl;
     return 0;
 }
