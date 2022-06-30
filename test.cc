@@ -20,5 +20,6 @@ int main(){
     cout<<"mac add4"<<endl;
     cout<<"mac add5"<<endl;
     cout<<"mac add6"<<endl;
+    cout<<"ub add1"<<endl;
     return 0;
 }
